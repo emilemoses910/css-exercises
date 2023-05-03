@@ -1,0 +1,11 @@
+.A {background-color: rgb(221, 138, 179);
+font-family: "Verdana", "DejaVu Sans", sans-serif;
+ }
+
+#Blue {color:rgba(27, 27, 179, 0.925); font-size: 36px;}
+
+.B {font-size: 24px; background-color: rgb(221, 138, 179);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;}
+
+#second-ID {background-color:rgb(121, 212, 121)}
+.adjust-font {font-size: 36px; font-weight: bold;}
